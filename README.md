@@ -1,6 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a portfolio website for the company name VKGHUMANCAPITAL.
+I have created this website for my client.
 
 Currently, two official plugins are available:
 
