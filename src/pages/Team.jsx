@@ -24,7 +24,7 @@ const Team = () => {
           name="Swati Bhardwaj"
           role="Senior Consultant"
           img="/images/swati_pic.PNG"
-          link="https://www.linkedin.com/in/dr-preeti-goyal-b790a41a6"
+          link="#"
         />
       </div>
     </div>
