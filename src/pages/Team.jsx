@@ -11,18 +11,19 @@ const Team = () => {
         <TeamCard 
           name="Vikas Gupta"
           role="Founder & CEO"
+          img="/images/vikas_vkg.jpg"
           link="https://www.linkedin.com/in/vikas-gupta-812230119"
         />
         <TeamCard 
           name="Karishma"
-          role="Manager"
+          role="Sr. Manager"
           img="/images/karishma.jpg"
           link="https://www.linkedin.com/in/karishma-rajput-012911217"
         />
         <TeamCard 
-          name="Dr. Preeti Goyal"
-          role="Founder & CEO"
-          img="/images/preeti_goyal.jpg"
+          name="Swati Bhardwaj"
+          role="Senior Consultant"
+          img="/images/swati_pic.PNG"
           link="https://www.linkedin.com/in/dr-preeti-goyal-b790a41a6"
         />
       </div>

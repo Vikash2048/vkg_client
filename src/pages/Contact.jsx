@@ -42,8 +42,8 @@ const Contact = () => {
                 <h3 className="text-3xl font-bold">Send us a Message</h3>
                 <form  className="flex flex-col " action="https://api.web3forms.com/submit" method="post">
                 <input type="hidden" name="access_key" value="3899889e-9286-40bb-9157-592be704a827"></input>
-                    <input className="px-2 py-4 border-b-[2.5px] border-slate-200 bg-transparent text-lg outline-none" name="name" placeholder="Name" type="text"/>
-                    <input className="px-2 py-4 border-b-[2.5px] border-slate-200 bg-transparent text-lg outline-none" name="email" placeholder="Email" type="text"/>
+                    <input className="px-2 py-4 border-b-[2.5px] border-slate-200 bg-transparent text-lg outline-none" name="name" placeholder="Name" type="text" required/>
+                    <input className="px-2 py-4 border-b-[2.5px] border-slate-200 bg-transparent text-lg outline-none" name="email" placeholder="Email" type="text" required/>
                     <input className="px-2 py-4 border-b-[2.5px] border-slate-200 bg-transparent text-lg outline-none" name="phone" placeholder="Phone" type="text"/>
                     <textarea className="px-2 py-4 border-b-[2.5px] border-slate-200 bg-transparent text-lg outline-none" name="message" id="" cols={30} rows={4} placeholder="Message / Position Applying For"></textarea>
                     <button className="bg-red-600 w-max px-4 py-4 text-xl font-medium rounded-lg text-white mt-4" type="submit" >Get In Touch</button>
