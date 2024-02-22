@@ -17,7 +17,7 @@ const Team = () => {
         <TeamCard 
           name="Karishma"
           role="Sr. Manager"
-          img="/images/karishma.jpg"
+          img="/images/kanu.jpg"
           link="https://www.linkedin.com/in/karishma-rajput-012911217"
         />
         <TeamCard 
