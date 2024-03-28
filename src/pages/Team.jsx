@@ -21,10 +21,10 @@ const Team = () => {
           link="https://www.linkedin.com/in/karishma-rajput-012911217"
         />
         <TeamCard 
-          name="Swati Bhardwaj"
-          role="Senior Consultant"
-          img="/images/swati_pic.PNG"
-          link="#"
+          name="Tina Yadav"
+          role="Vice President"
+          img="/images/tina.jpg"
+          link="https://www.linkedin.com/in/tina-yadav-586b90165"
         />
       </div>
     </div>
